@@ -1,2 +1,4 @@
-# Cricket-score-predictor
-Technologies: Python, Pandas, NumPy, Scikit-learn, XGBoost, Flask.  Developed a machine learning model to predict cricket scores using 820,000+ ball-by-ball records.  Implemented XGBoost, Random Forest, Gradient Boosting and Linear Regression algorithms.
+# cricket-score-predictor-ml
+A machine learning web app that predicts the final score of a T20 cricket innings based on live match situation — built with XGBoost, scikit-learn, and Flask.
+Predict the final score of a T20 cricket match in real time using machine learning.
+
